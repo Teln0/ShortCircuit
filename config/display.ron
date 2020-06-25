@@ -1,0 +1,4 @@
+(
+  title: "short-circuit",
+  dimensions: Some((500, 500)),
+)
